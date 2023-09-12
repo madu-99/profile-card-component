@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/madu-99/profile-card-component)
+- Live Site URL: https://app.netlify.com/sites/madushi-profile-card-component/configuration/general
 
 ## My process
 
@@ -52,6 +52,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub)https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub
 
